@@ -2,13 +2,13 @@
 
 ![italy](https://img.shields.io/badge/from-italy-blue) ![budapest](https://img.shields.io/badge/living-budapest-orange) ![badge](https://img.shields.io/badge/build-passing-success)
 
-![infographic](./hero.gif)
+![infographic](hero.gif)
 
-### Who I am?
+### Who I am
 
-I'm a **web developer** focused on the front-end side and a **coding coach**, who have always been attracted about how the creativity can be used, along with web technologies, to create amazing experiences. 
+I'm a **web developer** focused on the front-end side and a **coding coach**, who have always been attracted about how the creativity can be used, along with web technologies, to create amazing experiences.
 
-### What I do?
+### What I do
 
 I build websites/web applications, Wordpress and Drupal themes from scratch, Vue JS and React JS/Native apps. Interested in new trends and technologies on the web's world, especially in JavaScript and the latest CSS3 techniques. 
 
@@ -16,7 +16,7 @@ I build websites/web applications, Wordpress and Drupal themes from scratch, Vue
 
 ---
 
-### Lets get in touch!
+### Lets get in touch
 
 Intrerested in a collaboration or just want to have a chat?
 
