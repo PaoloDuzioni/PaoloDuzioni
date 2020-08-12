@@ -2,7 +2,7 @@
 
 ![italy](https://img.shields.io/badge/from-italy-blue) ![budapest](https://img.shields.io/badge/living-budapest-orange) ![badge](https://img.shields.io/badge/build-passing-success)
 
-![infographic](hero.gif)
+![infographic](https://github.com/PaoloDuzioni/PaoloDuzioni/blob/master/hero.gif)
 
 ### Who I am
 
