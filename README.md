@@ -21,8 +21,8 @@ I build websites/web applications, Wordpress and Drupal themes from scratch, Lar
 Intrerested in a collaboration or just want to have a chat?
 
 - :office: [Linkedin](https://www.linkedin.com/in/paolo-duzioni-a3162716a/)
-- :link: [Facebook](https://www.facebook.com/paoloduzioni)
-- :book: [Instagram](https://www.instagram.com/paoloduzionidev/)
+- :book: [Facebook](https://www.facebook.com/paoloduzioni)
+- :camera: [Instagram](https://www.instagram.com/paoloduzionidev/)
 - :bird: [Twitter](https://twitter.com/PaoloDuzioni)
 - :computer: [CodePen](https://codepen.io/Paolo-Duzioni)
 
