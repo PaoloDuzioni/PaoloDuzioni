@@ -20,7 +20,7 @@ I build websites/web applications, Wordpress and Drupal themes from scratch, Lar
 
 Intrerested in a collaboration or just want to have a chat?
 
-- :home: [WebSite](https://paoloduzioni.it/)
+- :house: [WebSite](https://paoloduzioni.it/)
 - :office: [Linkedin](https://www.linkedin.com/in/paolo-duzioni-a3162716a/)
 - :book: [Facebook](https://www.facebook.com/paoloduzioni)
 - :camera: [Instagram](https://www.instagram.com/paoloduzionidev/)
