@@ -28,9 +28,7 @@ Intrerested in a collaboration or just want to have a chat?
 - :camera: [Instagram](https://www.instagram.com/paoloduzionidev/)
 - :bird: [Twitter](https://twitter.com/PaoloDuzioni)
 - :computer: [CodePen](https://codepen.io/Paolo-Duzioni)
-
+- 🔦: [CodersRank](https://profile.codersrank.io/user/paoloduzioni/)
 ---
-
-![profile widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=paoloduzioni)
 
 Stay safe and remember to **push** :wink: 
