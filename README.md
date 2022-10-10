@@ -31,4 +31,6 @@ Intrerested in a collaboration or just want to have a chat?
 
 ---
 
+![profile widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=paoloduzioni)
+
 Stay safe and remember to **push** :wink:
