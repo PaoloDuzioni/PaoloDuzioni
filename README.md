@@ -10,7 +10,7 @@ I'm a **web developer** focused on the front-end side and a **coding coach**, wh
 
 ### What I do
 
-I build websites/web applications, Wordpress themes from scratch, Laravel web apps, Vue JS, React JS apps and real-time Unity apps. 
+I build websites/web applications, Wordpress themes from scratch, Laravel web apps, Vue JS, React JS apps and real-time Unreal Engine apps. 
 Interested in new trends / technologies on the web's world and game development.
 
 
